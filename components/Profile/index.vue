@@ -1,9 +1,5 @@
-<script lang="ts" setup>
-
-</script>
-
 <template>
-    <div>
-        <ProfileHeader />
+    <div class="Main">
+        <ProfileHeaderAvatar />
     </div>
 </template>

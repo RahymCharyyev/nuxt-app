@@ -3,5 +3,5 @@
 </script>
 
 <template>
-    <div class='avatar'></div>
+    <div class='avatar'>Avatar</div>
 </template>
